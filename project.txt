@@ -1,1 +1,5 @@
-gjgjkkj;lm,mb
+<<<<<<< HEAD
+a
+=======
+a
+>>>>>>> vetka1
